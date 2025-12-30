@@ -1,6 +1,6 @@
 # Walmart_sales
 Exploratory analysis of Walmart sales data to identify trends, seasonality, and store performance.
-# Walmart Sales Data Analysis 📊
+# Walmart Sales Data Analysis 
 
 ##  Project Overview
 This project focuses on analyzing Walmart retail sales data to uncover trends, seasonality, store performance, and the impact of holidays on sales. The goal is to generate actionable insights that support data-driven decision-making in inventory planning and sales forecasting.
